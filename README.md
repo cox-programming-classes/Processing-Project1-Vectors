@@ -1,4 +1,4 @@
-# Processing-Project1-Vectors
+# Project 1 - Vectors
 
 In this project you are going to build one of the fundamental components that we will use throughout the class.  Doing computations with Vectors will allow us to simplify a lot of graphical operations.  
   
