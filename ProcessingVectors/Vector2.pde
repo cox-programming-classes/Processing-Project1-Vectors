@@ -53,5 +53,8 @@ public class Vector2
   }
   
   // Compute a Unit Vector in the same direction as this vector.
-  public Vector2 unitVector();
+  public Vector2 unitVector()
+  {
+    
+  }
 }
