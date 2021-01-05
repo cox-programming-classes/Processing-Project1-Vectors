@@ -19,7 +19,7 @@ public class Vector2
   }
   
   //***************************
-  // Arithmetic Operators
+  // Arithmetic Operations
   //***************************
   
   // Compute the Vector Sum of this + other.
@@ -45,4 +45,13 @@ public class Vector2
   {
     
   }
+  
+  // Compute the additive inverse Vector -this.
+  public Vector2 inverse()
+  {
+    
+  }
+  
+  // Compute a Unit Vector in the same direction as this vector.
+  public Vector2 unitVector();
 }
